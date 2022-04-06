@@ -5,7 +5,7 @@
   <a href="https://www.crehana.com/clases/v2/12971/detalle/">
     <img src="images/curso.png" alt="Logo" width="160" height="50">
   </a>
-  <a href="https://www.linkedin.com/in/armando-cerda/">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-xavier-ramos-gonz%C3%A1lez-5308017a/">
     <img src="images/teacher.png" alt="Logo" width="160" height="50">
   </a>
 </div>
